@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Adam Castonguay</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Adam Castonguay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Adam Castonguay 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling urban water management transitions: a case of rainwater harvesting</title>
+      <link>/publication/rwht_uptake/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/rwht_uptake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards water sensitive cities in Asia: an interdisciplinary journey</title>
+      <link>/publication/wsc-asia/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/wsc-asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience and adaptability of rice terrace social-ecological systems: a case study of a local community&#39;s perception in Banaue, Philippines</title>
+      <link>/publication/resilience-banaue/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/resilience-banaue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
